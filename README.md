@@ -39,5 +39,5 @@ $ npm install && npm test
 
 [MIT license](LICENSE).
 
-[build-icon]: https://travis-ci.org/j-/set-map.svg?branch=master
-[build-link]: https://travis-ci.org/j-/set-map
+[build-icon]: https://travis-ci.org/j-/key-set-map.svg?branch=master
+[build-link]: https://travis-ci.org/j-/key-set-map
