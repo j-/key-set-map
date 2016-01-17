@@ -1,4 +1,4 @@
-# set-map
+# key-set-map
 
 [![master branch build status][build-icon]][build-link]
 
@@ -7,7 +7,7 @@ Use similar sets to identify map entries.
 ## Example
 
 ```js
-import SetMap from 'set-map';
+import SetMap from 'key-set-map';
 
 const map = new SetMap();
 map.set([3, 1, 4, 1, 5, 9], 'foobar');
@@ -18,7 +18,7 @@ console.log(map.get([1, 1, 3, 4, 5, 9])); // => "foobar"
 ## Installing
 
 ```sh
-$ npm install --save j-/set-map
+$ npm install --save j-/key-set-map
 ```
 
 ## Building
