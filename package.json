@@ -1,0 +1,35 @@
+{
+  "name": "set-map",
+  "version": "0.0.0",
+  "description": "Use similar sets to identify map entries",
+  "main": "dist/set-map.js",
+  "scripts": {
+    "test": "mocha",
+    "build": "rollup -i src/set-map.js -o dist/set-map.js -f umd -n SetMap"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-/set-map.js.git"
+  },
+  "keywords": [
+    "set",
+    "map"
+  ],
+  "author": "Jamie Hoeks <j@skeoh.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/j-/set-map.js/issues"
+  },
+  "homepage": "https://github.com/j-/set-map.js#readme",
+  "dependencies": {
+    "make-set": "make-set",
+    "sets-equal": "sets-equal"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "rollup": "^0.24.1"
+  },
+  "engines": {
+    "node": ">=4"
+  }
+}
