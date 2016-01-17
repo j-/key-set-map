@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/j-/set-map.js.git"
+    "url": "git+https://github.com/j-/set-map.git"
   },
   "keywords": [
     "set",
@@ -18,9 +18,9 @@
   "author": "Jamie Hoeks <j@skeoh.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/j-/set-map.js/issues"
+    "url": "https://github.com/j-/set-map/issues"
   },
-  "homepage": "https://github.com/j-/set-map.js#readme",
+  "homepage": "https://github.com/j-/set-map#readme",
   "dependencies": {
     "make-set": "^1.0.0",
     "sets-equal": "^1.0.0"
