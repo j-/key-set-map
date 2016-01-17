@@ -22,8 +22,8 @@
   },
   "homepage": "https://github.com/j-/set-map.js#readme",
   "dependencies": {
-    "make-set": "make-set",
-    "sets-equal": "sets-equal"
+    "make-set": "^1.0.0",
+    "sets-equal": "^1.0.0"
   },
   "devDependencies": {
     "mocha": "^2.3.4",
