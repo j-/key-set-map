@@ -2,7 +2,7 @@
 
 [![master branch build status][build-icon]][build-link]
 
-Ensures that a given input can be used as a set.
+Use similar sets to identify map entries.
 
 ## Example
 
