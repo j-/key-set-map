@@ -1,6 +1,6 @@
 {
   "name": "key-set-map",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Use similar sets to identify map entries",
   "main": "dist/set-map.js",
   "scripts": {
